@@ -3,3 +3,6 @@ node_modules/
 
 # .txt 파일 무시
 *.txt
+
+# gitignore 파일 무시
+# .gitignore
